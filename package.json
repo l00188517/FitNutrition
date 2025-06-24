@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://l00188517.github.io/FitNutrition/", // Your URL
   "scripts": {
     "dev": "vite",
     "build": "vite build",
